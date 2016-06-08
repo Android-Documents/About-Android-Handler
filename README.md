@@ -116,7 +116,7 @@ mHandler神情骄傲得对小Message说：我已经跟首都的消息中心打�
 
 - post
 
-    ![image](/psot.png)
+    ![image](/post.png)
 
 从代码的实现上来看，post方法也是在使用send类的方法在发送消息，只是他们的参数要求是Runnable对象。
 
